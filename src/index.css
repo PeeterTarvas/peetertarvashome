@@ -9,6 +9,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: white;
+  background: #1f2930;
+
+}
+
+section {
+  position: relative;
+  display: flex;
+  flex-direction: centre;
+  aling-items:centre;
+  min-height: 400px;
+  padding: 100px 20vw;
 }
 
 code {
